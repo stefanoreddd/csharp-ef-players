@@ -10,6 +10,7 @@ namespace C__Entity_Framework_Players
 {
     public class Players
     {
+        [Key]
         public int PlayerId { get; set; }
 
         [MaxLength(50)]
