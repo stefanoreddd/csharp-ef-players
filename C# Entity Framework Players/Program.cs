@@ -1,6 +1,7 @@
 ﻿using System.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using C__Entity_Framework_Players;
+using static System.Formats.Asn1.AsnWriter;
 
 string connectionString = "Data Source=localhost;Initial Catalog=Players;Integrated Security=True";
 
@@ -33,14 +34,12 @@ while (continua)
             Console.WriteLine("Inserisci l'id del giocatore: ");
             int idGiocatore = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Inserisci il punteggio: ");
-            int punteggioGiocatore = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Inserisci il numero di partite giocate: ");
-            int partiteGiocatore = int.Parse(Console.ReadLine());
+            Random random = new Random();
 
-            Console.WriteLine("Inserisci il numero di partite vinte: ");
-            int partiteVinteGiocatore = int.Parse(Console.ReadLine());
+            int punteggioGiocatore = random.Next(11);
+            int partiteGiocatore = random.Next(1, 101);
+            int partiteVinteGiocatore = random.Next(1, partiteGiocatore);
 
             Players player = new Players(idGiocatore, nomeGiocatore, cognomeGiocatore, punteggioGiocatore, partiteGiocatore, partiteVinteGiocatore);
 
