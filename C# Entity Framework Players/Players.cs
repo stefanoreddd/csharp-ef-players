@@ -34,9 +34,12 @@ namespace C__Entity_Framework_Players
             PlayerId = playerId;
             Name = name;
             Surname = surname;
-            Score = score;
-            GamesPlayed = gamesPlayed;
-            GamesWon = gamesWon;
+
+            Random random = new Random();
+
+            Score = random.Next(11);
+            GamesPlayed = random.Next(1, 101);
+            GamesWon = random.Next(1, gamesPlayed);
         }
 
         public override string ToString()
