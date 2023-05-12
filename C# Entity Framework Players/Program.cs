@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using C__Entity_Framework_Players;
 using static System.Formats.Asn1.AsnWriter;
 
-string connectionString = "Data Source=localhost;Initial Catalog=Players;Integrated Security=True";
+string connectionString = "Data Source=localhost;Initial Catalog=Players;Integrated Security=True;TrustServerCertificate=True";
 
 bool continua = true;
 
