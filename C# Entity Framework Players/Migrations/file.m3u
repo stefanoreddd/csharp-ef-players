@@ -43,7 +43,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?h
 #EXTINF:-1 tvg-chno="9" tvg-id="Nove.it" tvg-name="NOVE HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/9-novehd.png", NOVE HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=nove&playerParams.caid=nove&playerParams.slate=nove&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkwMjcyMTEsIm5iZiI6MTc3OTAyNzIxMSwiZXhwIjoxNzc5MDI3NTcxLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.Zmhnm5H1zDu-MqtjQEgNCzgfh51s2ogbPi92HYLwSPM&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
 #EXTSIZE: Medium
@@ -143,7 +143,7 @@ https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-chno="29" tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/29-la7cinema.png", LA7 Cinema
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+http://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
 
 #EXTINF:-1 tvg-chno="30" tvg-id="La.5.it" tvg-name="La5 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/30-la5hd.png", La5 HD
 #EXTSIZE: Medium
@@ -153,7 +153,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="31" tvg-id="Real.Time.it" tvg-name="Real Time HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/31-realtimehd.png", Real Time HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=realtime&playerParams.caid=realtime&playerParams.slate=realtime&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTg4NjksIm5iZiI6MTc3OTExODg2OSwiZXhwIjoxNzc5MTE5MjI5LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.wBmaaqX4mf9lkJHCVy_m8dzjgb6FkAKiXnktzcYD5eI&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="32" tvg-id="QVC.it" tvg-name="QVC HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/32-qvc.png", QVC HD
 #EXTSIZE: Medium
@@ -163,7 +163,7 @@ https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="Food.Network.it" tvg-name="Food Network HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/33-foodnetworkhd.png", Food Network HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=foodnetwork&playerParams.caid=foodnetwork&playerParams.slate=foodnetwork&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTkwMzgsIm5iZiI6MTc3OTExOTAzOCwiZXhwIjoxNzc5MTE5Mzk4LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.jM-nKFe3HNPI8bGupkR8SjzP97hQKQ43cAxlfH8tz_o&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="34" tvg-id="Cine34.it" tvg-name="Cine34 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/34-cine34hd.png", Cine34 HD
 #EXTSIZE: Medium
@@ -183,12 +183,12 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/p
 #EXTINF:-1 tvg-chno="37" tvg-id="Discovery.Channel.it" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/37-discovery.png", Discovery
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=discoverychannel&playerParams.caid=discoverychannel&playerParams.slate=discoverychannel&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTkyMDQsIm5iZiI6MTc3OTExOTIwNCwiZXhwIjoxNzc5MTE5NTY0LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.8NV8HGUzGi4APPo9EDzHALFmP_uXDEabX6k9WtCGAGs&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/38-giallohd.png", Giallo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=giallo&playerParams.caid=giallo&playerParams.slate=giallo&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTkzNjIsIm5iZiI6MTc3OTExOTM2MiwiZXhwIjoxNzc5MTE5NzIyLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.Lj8P_vzIoPSz0DHhihjwXjVyOZLsrLqBOS1ePEUggv8&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="39" tvg-id="Top.Crime.it" tvg-name="Top Crime HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/39-topcrimehd.png", Top Crime HD
 #EXTSIZE: Medium
@@ -258,7 +258,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="52" tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/52-dmaxhd.png", DMAX
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=dmax&playerParams.caid=dmax&playerParams.slate=dmax&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTk1NDAsIm5iZiI6MTc3OTExOTU0MCwiZXhwIjoxNzc5MTE5OTAwLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.-MDu3jxoXbYmkO9SxKuMzKzbS7-RVtBQnvNLrQ5dVQo&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="53" tvg-name="Italia 53" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/53-italia53.png", Italia 53
 #EXTSIZE: Medium
@@ -278,7 +278,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-chno="56" tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/56-hgtv.png", HGTV - Home&Garden
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=hgtv&playerParams.caid=hgtv&playerParams.slate=hgtv&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTk2NzYsIm5iZiI6MTc3OTExOTY3NiwiZXhwIjoxNzc5MTIwMDM2LCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.a3j1y8oAl-SYAWXy1CqhTvP3DevR_mwCRSK8sSPIwhs&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="57" tvg-id="Rai.Scuola..5057.it" tvg-name="Rai Scuola HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/57-raiscuolahd.png", Rai Scuola HD
 #EXTSIZE: Medium
@@ -293,7 +293,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forc
 #EXTINF:-1 tvg-chno="59" tvg-id="Motor.Trend.it" tvg-name="Discovery Turbo" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/59-discoveryturbo.png", Discovery Turbo
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.aurora.enhanced.live/live/mtc/v1/master/4594282f9c99190a14f881551cd1d8ffe4b4b70e/IT_WEB/index.m3u8?playerParams.channel=turbo&playerParams.caid=turbo&playerParams.slate=turbo&playerParams.transcodeprofile=hls&manifest.mt=7714a87e43154eab82078e593a90ff3f&manifest.token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NzkxMTk3ODMsIm5iZiI6MTc3OTExOTc4MywiZXhwIjoxNzc5MTIwMTQzLCJjb3VudHJ5Q29kZSI6Iml0IiwidWlwIjoiMTMwLjI1LjI1NS4xODQifQ.4HMJImikwM6ZcH-SV1m4Pp5hpBFBcoFxhd-YD2jttKw&playerParams.gdpr=
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
 
 #EXTINF:-1 tvg-chno="60" tvg-id="Sportitalia.it" tvg-name="Sportitalia HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/60-sportitalia.png", Sportitalia HD
 #EXTSIZE: Medium
@@ -373,7 +373,7 @@ https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-chno="103" tvg-name="Radio TV Serie A" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/103-radiotvseriea.png", Radio TV Serie A
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
 
 #EXTINF:-1 tvg-chno="158" tvg-name="Radio Kiss Kiss TV" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/158-kisskiss.png", Radio Kiss Kiss TV
 #EXTSIZE: Medium
