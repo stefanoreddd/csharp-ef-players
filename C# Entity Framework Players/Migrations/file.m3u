@@ -48,7 +48,7 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-chno="10" tvg-name="Telenorba" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/10-telenorba.png", Telenorba
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://stream12.xdevel.com/video2s976570-2526/stream/playlist_dvr.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8
 
 #EXTINF:-1 tvg-chno="11" tvg-id="RADIONORBA.TV.it" tvg-name="Radionorba TV HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/11-radionorbatv.png", Radionorba TV HD
 #EXTSIZE: Medium
@@ -63,12 +63,12 @@ https://stream12.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="TG.NORBA.24.it" tvg-name="TG Norba 24" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/13-tgnorba24.png", TG Norba 24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://stream6.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8
 
 #EXTINF:-1 tvg-chno="14" tvg-name="Antenna Sud" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/14-antennasud.png", Antenna Sud
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://stream.antennasudwebtv.it:9443/hls/vod720.m3u8
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
 
 #EXTINF:-1 tvg-chno="15" tvg-name="Telerama" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/15-telerama.png", Telerama
 #EXTSIZE: Medium
