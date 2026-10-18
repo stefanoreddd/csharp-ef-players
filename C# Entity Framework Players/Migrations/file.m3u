@@ -93,7 +93,7 @@ https://live2.telesveva.com/hls/svevahd.m3u8
 #EXTINF:-1 tvg-chno="19" tvg-name="Tele Dehon" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/19-teledehon.png", Tele Dehon
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/chunklist_w1250153136_b3000000_slen.m3u8
+https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="20" tvg-id="20.it" tvg-name="20Mediaset HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/20-20hd.png", 20Mediaset HD
 #EXTSIZE: Medium
