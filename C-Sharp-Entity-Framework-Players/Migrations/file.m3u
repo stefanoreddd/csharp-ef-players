@@ -78,7 +78,7 @@ https://str03.fluid.stream/TeleRama/livestream/chunklist_w863351056.m3u8
 #EXTINF:-1 tvg-chno="16" tvg-id="TRM.h24.it" tvg-name="TRM H24" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/csharp-ef-players/refs/heads/master/C-Sharp-Entity-Framework-Players/Migrations/source/16-trmh24.png", TRM H24
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://www.youtube.com/watch?v=88vVV1k84Qo
+https://www.youtube.com/user/trmh24/live
 
 #EXTINF:-1 tvg-chno="17" tvg-name="Telebari" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/csharp-ef-players/refs/heads/master/C-Sharp-Entity-Framework-Players/Migrations/source/17-telebari.png", Telebari
 #EXTSIZE: Medium
@@ -308,7 +308,7 @@ https://5a1178b42cc03.streamlock.net/travel/travel/chunklist_w2126077193.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-name="Donna TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/csharp-ef-players/refs/heads/master/C-Sharp-Entity-Framework-Players/Migrations/source/62-donnatv.png", Donna TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w1420973156.m3u8
+https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="63" tvg-name="Canale 63" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/csharp-ef-players/refs/heads/master/C-Sharp-Entity-Framework-Players/Migrations/source/63-cs24.png", Canale 63
 #EXTSIZE: Medium
@@ -323,7 +323,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-chno="65" tvg-name="Alma TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/csharp-ef-players/refs/heads/master/C-Sharp-Entity-Framework-Players/Migrations/source/65-almatv.png", Alma TV
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="66" tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://raw.githubusercontent.com/stefanoreddd/csharp-ef-players/refs/heads/master/C-Sharp-Entity-Framework-Players/Migrations/source/66-radio105.png", Radio 105 TV
 #EXTSIZE: Medium
